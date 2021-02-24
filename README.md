@@ -11,5 +11,7 @@ https://PrimalOrB.github.io/code_refactor
 
 ## Stages of refactoring
 * Update base readme with more detail of project scope
+* Add GitHub Issues
+* Add Descriptive Title to HTML (GitHub Issue #1)
 
 ### Andrew Ogilvie - 2021 (UofT SCS Bootcamp)

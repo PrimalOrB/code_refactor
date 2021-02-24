@@ -26,5 +26,7 @@ https://PrimalOrB.github.io/code_refactor
     * Add meta description tag / content for search engine optimization
 * Address Semantic HTML Standards (GitHub Issue #5)
     * Issue addressed as refactor of HTML / CSS structure
+* Address Image accessible alt elements (GitHub Issue #3)
+    * Added descriptive alt tag contents to each image
 
 ### Andrew Ogilvie - 2021 (UofT SCS Bootcamp)

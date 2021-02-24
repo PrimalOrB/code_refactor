@@ -9,6 +9,9 @@ https://github.com/PrimalOrB/code_refactor
 ## Live Website
 https://PrimalOrB.github.io/code_refactor
 
+## Finished Image
+![Module 1 - Completed](https://user-images.githubusercontent.com/69044956/108947166-ed31c580-762d-11eb-8c60-aa40797cf6ff.png)
+
 ## Stages of refactoring
 * Update base readme with more detail of project scope
 * Add GitHub Issues
